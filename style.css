@@ -1,0 +1,17 @@
+
+.red-text {
+  color: red;
+}
+
+h2 {
+  font-family: Lobster, monospace;
+}
+
+p {
+  font-size: 16px;
+  font-family: monospace;
+}
+
+.larger-image {
+  width: 100px;
+}
